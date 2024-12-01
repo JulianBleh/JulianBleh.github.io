@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Outreach & Media"
-permalink: /outreach_media/
+title: "Media"
+permalink: /media/
 author_profile: true
 ---
 
