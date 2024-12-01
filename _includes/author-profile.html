@@ -24,6 +24,9 @@
     <button class="btn btn--inverse">More Information</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].file_label | default: "CV" }}</a></li>
+      {% endif %}  
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
@@ -37,8 +40,6 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.cv %}
-        <li><a href="{{ author.cv }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].file_label | default: "CV" }}</a></li>
-      {% endif %}  
 
 
 
