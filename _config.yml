@@ -25,11 +25,11 @@ author:
   name             : "Julian Bleh"
   pronouns         : "he/him"
   bio              : "Social psychologist"
+  cv               : "https://julianbleh.github.io/markdown-cv/"
   location         : "Leipzig, Germany"
   employer         : "Leipzig University"
   uri              : #URL
   email            : "julian.bleh@uni-leipzig.de"
-  cv               : "https://julianbleh.github.io/markdown-cv/"
 
 
   # Academic websites
