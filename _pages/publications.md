@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV Julian Bleh"
-permalink: /cv/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
 ### From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy
 Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2025). From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy. *British Journal of Social Psychology, 64*(1), e12811. https://doi.org/10.1111/bjso.12811 [[Full-text available]](https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"} 
@@ -34,3 +32,4 @@ Bleh, J. (2022). *Evaluation der Beteiligungsverfahren zur Überarbeitung der st
 Bleh, J. (2021). *Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen zu den Pilotveranstaltungen im Juni 2021 (Bürgerräte) 2021*. [[Full-text available]](https://www.researchgate.net/publication/386250840_Evaluation_Pilot_Wahlkreisrat_Burgerrate_2021){:target="_blank"}
 
 Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Dialogmarketings zur Steigerung des Umweltverbundanteils am Modal Split von RentnerInnen. *Umweltpsychologie, 38,* 85-104.
+
