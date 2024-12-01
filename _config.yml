@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Julian Bleh"
+title                    : "Julian Bleh's profile"
 title_separator          : "-"
 name                     : &name "Julian Bleh"
 description              : &description "personal description"
