@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Julian Bleh"
 title_separator          : "-"
 name                     : &name "Julian Bleh"
-description              : &description "personal description"
+description              : &description "Julian Bleh – researcher, social psychologist"
 url                      : https://julianbleh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -298,12 +298,14 @@ permalink: /:categories/:title/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -312,7 +314,9 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
+
 
 
 # Archives
