@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Julian Bleh"
+description: "Julian Bleh – researcher, social psychologist"
 author_profile: true
 redirect_from: 
   - /about/
