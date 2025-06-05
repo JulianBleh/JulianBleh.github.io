@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Research profile"
-description: "Julian Bleh – researcher, social psychologist"
+description: "Julian Bleh – research, social psychology"
 image: images/Foto2_Julian_Bleh_2022_bright_small.jpg
 author_profile: true
 redirect_from: 
